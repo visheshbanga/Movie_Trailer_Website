@@ -26,6 +26,6 @@
 </ol>
 <h2>Opening Webpage</h2>
 <ul type="disc">
-  <li>Download and save the file in same folder</li>
+  <li>Download and save the files in same folder</li>
   <li>Open fresh_tomatoes.html to view the website.</li>
 </ul>
